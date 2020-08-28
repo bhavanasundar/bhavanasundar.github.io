@@ -9,7 +9,7 @@
   
   <url>
     <loc>https://bhavanasundar.github.io/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -23,12 +23,37 @@
   </url>
   
   <url>
-    <loc>https://bhavanasundar.github.io/series/hugo-101/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <loc>https://bhavanasundar.github.io/posts/2020/08/hello-world/</loc>
+    <lastmod>2020-08-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://bhavanasundar.github.io/posts/</loc>
+    <lastmod>2020-08-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bhavanasundar.github.io/tags/</loc>
+    <lastmod>2020-08-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://bhavanasundar.github.io/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bhavanasundar.github.io/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://bhavanasundar.github.io/tags/untagged/</loc>
+    <lastmod>2020-08-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bhavanasundar.github.io/series/hugo-101/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
@@ -62,20 +87,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://bhavanasundar.github.io/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://bhavanasundar.github.io/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://bhavanasundar.github.io/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://bhavanasundar.github.io/tags/"
                 />
   </url>
   
